@@ -6,52 +6,6 @@ theme: jekyll-theme-modernist
 # Background Image
 background_image: "assets/background.jpg"
 
-# Navigation Menu
-header_pages:
-  - index.md
-  - about.md
-  - research.md
-  - education.md
-  - publications.md
-  - projects.md
-  - presentations.md
-  - demo.md
-  - life.md
-  - contact.md
-
-
-# Publications Section
-publications:
-  - title: "AI-driven Behavioral Health Analysis"
-    journal: "Nature Machine Intelligence"
-    year: "2024"
-    link: "https://doi.org/xyz"
-
-  - title: "Federated Learning in Healthcare"
-    journal: "IEEE Transactions on Medical Imaging"
-    year: "2023"
-    link: "https://doi.org/xyz"
-
-# Demo Section
-demo:
-  title: "AI Chatbot for Mental Health Insights"
-  description: "An interactive AI-powered chatbot that provides real-time insights into mental health and EHR data."
-  link: "https://leoliaugust1230.github.io/demo"
-
-# Social Links
-social:
-  github: "https://github.com/leoliaugust1230/"
-  scholar: "https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works"
-  email: "zehan.li@uth.tmc.edu"
-
-
-# Plugins (Enhancing SEO & Site Performance)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-
 
 # SEO & Meta Tags
 author: "Zehan (Leo) Li"
