@@ -18,7 +18,7 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 ## Research Highlights
 
 <p align="center">
-  <img src="/assets/TMC AI Summit Leo poster.pdf" alt="research summary" width="550" class="researcn-img"/>
+  <img src="/assets/TMC AI Summit Leo poster.pdf" alt="research summary" width="750" class="researcn-img"/>
 </p>
 
 ---
