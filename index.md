@@ -43,7 +43,7 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 
 ## Publications
 
-- **INSIGHTFUL: Insight Generation through Clinical Annotation, Analysis, and Modeling of Suicide-Related Factors towards Understanding and Lifesaving**, *Submitted*, 2024. [Read More](https://www.medrxiv.org/content/10.1101/2025.01.13.25320491v1)
+- **INSIGHTFUL: Insight Generation through Clinical Annotation, Analysis, and Modeling of Suicide-Related Factors towards Understanding and Lifesaving**, *Submitted to BMJ Digital Health & AI*, 2024. [Read More](https://www.medrxiv.org/content/10.1101/2025.01.13.25320491v1)
 - **Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**, *AMIA Summit 2025 Proceeding*, 2023. [Read More](https://arxiv.org/abs/2409.18878)
 - 🔗 ** Full publication list on [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works)**
 ---
