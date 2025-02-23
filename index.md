@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% include header.html %}
 
 ## Advancing AI for Mental Health
 
@@ -13,7 +12,6 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
   <img src="assets/profile_pic.jpg" alt="Zehan (Leo) Li" width="250" class="profile-pic"/>
   ## Zehan (Leo) Li
 </p>
-
 
 ---
 
@@ -72,5 +70,3 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
     background-color: #f9f9f9;
   }
 </style>
-
-{% include footer.html %}
