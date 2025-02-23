@@ -1,8 +1,7 @@
-title: "Zehan (Leo) Li"
 description: "AI & Biomedical Informatics for Mental Health"
 baseurl: ""
 url: "https://leoliaugust1230.github.io"
-theme: hyde
+theme: "modernist"
 
 # Navigation Menu (sidebar links)
 header_pages:
