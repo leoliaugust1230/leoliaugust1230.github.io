@@ -9,8 +9,8 @@ I am an emerging scientist in the field of Biomedical Informatics, specializing 
 Beyond academia, I am an avid entrepreneur with a track record of innovation across AI, renewable energy, and event production. As Co-Founder of Metal Light and Dreamertainment, I combine technical expertise with creative vision and dynamic leadership.
 
 <p align="center">
-  <img src="assets/profile_pic.jpg" alt="Zehan (Leo) Li" width="250" class="profile-pic"/>
-  ## Zehan (Leo) Li
+  Zehan (Leo) Li<br>
+  <img src="assets/profile_pic.jpg" alt="Zehan (Leo) Li" width="350" class="research-img"/>
 </p>
 
 ---
