@@ -9,7 +9,7 @@ I am an emerging scientist in the field of Biomedical Informatics, specializing 
 Beyond academia, I am an avid entrepreneur with a track record of innovation across AI, renewable energy, and event production. As Co-Founder of Metal Light and Dreamertainment, I combine technical expertise with creative vision and dynamic leadership.
 
 <p align="center">
-  Zehan (Leo) Li<br>
+  <strong>Zehan (Leo) Li</strong><br>
   <img src="assets/profile_pic.jpg" alt="Zehan (Leo) Li" width="350" class="research-img"/>
 </p>
 
@@ -43,9 +43,9 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 
 ## Publications
 
-- **AI-driven Behavioral Health Analysis**, *Nature Machine Intelligence*, 2024. [Read More](https://doi.org/xyz)
-- **Federated Learning in Healthcare**, *IEEE Transactions on Medical Imaging*, 2023. [Read More](https://doi.org/xyz)
-🔗 **[Google Scholar Profile]([https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works](https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works))**
+- **INSIGHTFUL: Insight Generation through Clinical Annotation, Analysis, and Modeling of Suicide-Related Factors towards Understanding and Lifesaving**, *Submitted*, 2024. [Read More](https://doi.org/xyz)
+- **Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**, *AMIA Summit 2025 Proceeding*, 2023. [Read More](https://doi.org/xyz)
+🔗 **[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works)**
 ---
 
 <style>
