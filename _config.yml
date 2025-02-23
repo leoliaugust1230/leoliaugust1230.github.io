@@ -1,0 +1,12 @@
+description: "AI & Biomedical Informatics for Mental Health"
+baseurl: ""
+url: "https://leoliaugust1230.github.io"
+theme: jekyll-theme-modernist
+
+# Background Image
+background_image: "assets/background.jpg"
+
+
+# SEO & Meta Tags
+author: "Zehan (Leo) Li"
+
