@@ -23,13 +23,37 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 
 ---
 
+
+## Education
+
+- **Ph.D. in Biomedical Informatics**, UTHealth Houston (Present)
+- **M.S. in Health Informatics**, Johns Hopkins University (2021)
+- **M.H.S in Public Mental Health**, Johns Hopkins University (2019)
+- **B.S. in Experimental Psychology**, Purdue University (2018)
+
+---
+
 ## Latest News
 
 <div class="scroll-box" markdown="1">
 - **Feb 2025:** Presented at TMC AI Summit as selected Student Research Showcase
 </div>
 
+---
+
+## Publications
+
+- **AI-driven Behavioral Health Analysis**, *Nature Machine Intelligence*, 2024. [Read More](https://doi.org/xyz)
+- **Federated Learning in Healthcare**, *IEEE Transactions on Medical Imaging*, 2023. [Read More](https://doi.org/xyz)
+🔗 **[Google Scholar Profile]([https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works](https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works))**
+---
+
 <style>
+  body {
+    background-image: url('assets/background.jpg');
+    background-size: cover;
+    background-position: center;
+  }
   .profile-pic {
     border-radius: 50%;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
