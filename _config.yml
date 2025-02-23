@@ -1,7 +1,7 @@
 description: "AI & Biomedical Informatics for Mental Health"
 baseurl: ""
 url: "https://leoliaugust1230.github.io"
-theme: "modernist"
+theme: jekyll-theme-modernist
 
 # Navigation Menu (sidebar links)
 header_pages:
