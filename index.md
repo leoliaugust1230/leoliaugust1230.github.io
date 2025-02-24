@@ -53,7 +53,7 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 ---
 ## Awards and Recognitions
 
-- UPenn Y-Prize Competition -- [2019-2020 Grant Winner: Metal Harvesting Lights](https://yprize.upenn.edu/past-y-prize-winners/)
+- UPenn Y-Prize Competition -- [2019-2020 Grand Prize Winner](https://yprize.upenn.edu/past-y-prize-winners/)
 
 
 
