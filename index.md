@@ -38,7 +38,8 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 ## Latest News
 
 <div class="scroll-box" markdown="1">
-- **Feb 2025:** Presented at TMC AI Summit as selected Student Research Showcase
+- **Feb 2025:** Presented at [TMC AI Summit](https://tmc-ai-summit.org/) Student Research Showcase competition
+- **March 2025:**  Presented at HIMSS25 global conference in Las Vegas as selected [Emerging Healthcare Leaders](https://www.himssconference.com/emerging-leader/)
 </div>
 
 ---
@@ -50,6 +51,11 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 - **Full publication list on [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works)**
 
 ---
+## Awards and Recognitions
+
+- UPenn Y-Prize Competition -- [2019-2020 Grant Winner: Metal Harvesting Lights](https://yprize.upenn.edu/past-y-prize-winners/)
+
+
 
 <style>
   body {
