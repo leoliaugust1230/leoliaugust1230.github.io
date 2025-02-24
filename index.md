@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cool_one
 ---
 
 ## Advancing AI for Mental Health
