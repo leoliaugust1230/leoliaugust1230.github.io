@@ -2,13 +2,13 @@
 layout: cool_one
 ---
 
-## Advancing AI for Mental Health
+## **Advancing AI for Mental Health**
 
 I am an emerging scientist in the field of Biomedical Informatics, specializing in applying and evaluating advanced language models to process complex biomedical and clinical data. Currently pursuing my Ph.D. at the University of Texas Health Science Center at Houston (UTHealth), my research focuses on **leveraging AI to analyze behavioral health EHR data** and **applying LLMs to generate insights for improving mental health care**.
 
 I believe in **decentralized Al** and **patient data ownership**. I am passionate about reshaping healthcare at lower costs to empower individuals. I am eager to join forces with consumer health tech companies that are **consumer-obsessed**, **healthcare-native**, and **dare to reimage what care can look like**.
 
-Beyond academia, I am an avid entrepreneur with a track record of innovation across **Biomedical AI**, **renewable energy**, and **event production**. As Co-Founder of [Metal Light](https://www.metallight.io) and [Dreamertainment](https://dreamfoodfestival.com), I combine technical expertise with creative vision and dynamic leadership.
+Beyond academia, I am an avid entrepreneur with a track record of innovation across **Biomedical AI**, **renewable energy**, and **event production**. As Co-Founder of **[Metal Light](https://www.metallight.io)** and **[Dreamertainment](https://dreamfoodfestival.com)**, I combine technical expertise with creative vision and dynamic leadership.
 
 <p align="center">
   <strong>Zehan (Leo) Li</strong><br>
@@ -47,7 +47,7 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 ## Publications
 
 - **INSIGHTFUL: Insight Generation through Clinical Annotation, Analysis, and Modeling of Suicide-Related Factors towards Understanding and Lifesaving**, *Submitted to BMJ Digital Health & AI*, 2025. [Read More](https://www.medrxiv.org/content/10.1101/2025.01.13.25320491v1)
-- **Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**, *AMIA Summit 2025 Proceeding*, 2024. [Read More](https://arxiv.org/abs/2409.18878)
+- **Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**, *AMIA Summit 2025 Proceeding*. [Read More](https://arxiv.org/abs/2409.18878)
 - **Full publication list on [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works)**
 
 ---
@@ -55,7 +55,7 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 
 - UPenn Y-Prize Competition -- [2019-2020 Grand Prize Winner](https://yprize.upenn.edu/past-y-prize-winners/)
 
-
+---
 
 <style>
   body {
