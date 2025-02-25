@@ -26,6 +26,17 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 ---
 
 
+## Publications
+
+<div class="scroll-box" markdown="1">
+- **INSIGHTFUL: Insight Generation through Clinical Annotation, Analysis, and Modeling of Suicide-Related Factors towards Understanding and Lifesaving**, *Submitted to BMJ Digital Health & AI*, 2025. [Read More](https://www.medrxiv.org/content/10.1101/2025.01.13.25320491v1)
+- **Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**, *AMIA Summit 2025 Proceeding*. [Read More](https://arxiv.org/abs/2409.18878)
+- **Large language models in mental health care: a scoping review**, *Submitted to JMIR Mental Health*, [Read More](https://arxiv.org/abs/2401.02984)
+</div>
+
+- **Full publication list on [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works)**
+---
+
 ## Education
 
 - **Ph.D. in Biomedical Informatics**, UTHealth Houston (Expected August 2025)
@@ -43,25 +54,13 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 </div>
 
 ---
-
-## Publications
-
-<div class="scroll-box" markdown="1">
-- **INSIGHTFUL: Insight Generation through Clinical Annotation, Analysis, and Modeling of Suicide-Related Factors towards Understanding and Lifesaving**, *Submitted to BMJ Digital Health & AI*, 2025. [Read More](https://www.medrxiv.org/content/10.1101/2025.01.13.25320491v1)
-- **Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**, *AMIA Summit 2025 Proceeding*. [Read More](https://arxiv.org/abs/2409.18878)
-- **Large language models in mental health care: a scoping review**, *Submitted to JMIR Mental Health*, [Read More](https://arxiv.org/abs/2401.02984)
-</div>
-
-- **Full publication list on [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works)**
-
----
 ## Awards and Recognitions
 
 - UPenn Y-Prize Competition -- [2019-2020 Grand Prize Winner](https://yprize.upenn.edu/past-y-prize-winners/)
 
 ---
 
-## Contact
+## Contact Me
 - **Email:** zehan.li@uth.tmc.edu
 - **LinkedIn:** [zehan li's Profile](www.linkedin.com/in/zehan-li)
 
