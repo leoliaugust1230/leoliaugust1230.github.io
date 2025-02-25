@@ -28,7 +28,7 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 
 ## Education
 
-- **Ph.D. in Biomedical Informatics**, UTHealth Houston (Present)
+- **Ph.D. in Biomedical Informatics**, UTHealth Houston (Expected August 2025)
 - **M.S. in Health Informatics**, Johns Hopkins University (2021)
 - **M.H.S in Public Mental Health**, Johns Hopkins University (2019)
 - **B.S. in Experimental Psychology**, Purdue University (2018)
@@ -38,7 +38,7 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 ## Latest News
 
 <div class="scroll-box" markdown="1">
-- **Feb 2025:** Presented at [TMC AI Summit](https://tmc-ai-summit.org/) Student Research Showcase competition
+- **Feb 2025:** [TMC AI Summit](https://tmc-ai-summit.org/) Student Research Showcase competition winner
 - **March 2025:**  Presented at HIMSS25 global conference in Las Vegas as selected [Emerging Healthcare Leaders](https://www.himssconference.com/emerging-leader/)
 </div>
 
@@ -46,8 +46,12 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 
 ## Publications
 
+<div class="scroll-box" markdown="2">
 - **INSIGHTFUL: Insight Generation through Clinical Annotation, Analysis, and Modeling of Suicide-Related Factors towards Understanding and Lifesaving**, *Submitted to BMJ Digital Health & AI*, 2025. [Read More](https://www.medrxiv.org/content/10.1101/2025.01.13.25320491v1)
 - **Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**, *AMIA Summit 2025 Proceeding*. [Read More](https://arxiv.org/abs/2409.18878)
+- **Large language models in mental health care: a scoping review**, *Submitted to JMIR Mental Health*, [Read More](https://arxiv.org/abs/2401.02984)
+</div>
+
 - **Full publication list on [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=Aa3mKPQAAAAJ&view_op=list_works)**
 
 ---
@@ -56,6 +60,10 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 - UPenn Y-Prize Competition -- [2019-2020 Grand Prize Winner](https://yprize.upenn.edu/past-y-prize-winners/)
 
 ---
+
+## Contact
+- **Email:** zehan.li@uth.tmc.edu
+- **LinkedIn:** [zehan li's Profile](www.linkedin.com/in/zehan-li)
 
 <style>
   body {
