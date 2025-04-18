@@ -29,6 +29,7 @@ Beyond academia, I am an avid entrepreneur with a track record of innovation acr
 ## Publications
 
 <div class="scroll-box" markdown="1">
+- **Explainable Suicide Phenotyping from Initial Psychiatric Evaluation Notes Using Reasoning Large Language Models**, *Submitted to AMIA Symposium 2025*. [Read More] (https://www.medrxiv.org/content/10.1101/2025.03.27.25324783v1)
 - **INSIGHTFUL: Insight Generation through Clinical Annotation, Analysis, and Modeling of Suicide-Related Factors towards Understanding and Lifesaving**, *Submitted to BMJ Digital Health & AI*, 2025. [Read More](https://www.medrxiv.org/content/10.1101/2025.01.13.25320491v1)
 - **Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**, *AMIA Summit 2025 Proceeding*. [Read More](https://arxiv.org/abs/2409.18878)
 - **Large language models in mental health care: a scoping review**, *Submitted to JMIR Mental Health*, [Read More](https://arxiv.org/abs/2401.02984)
